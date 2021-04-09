@@ -1,5 +1,5 @@
 # CSharp-NetCore-RestAPI-ElasticSearch
-SmartApartmentData Assessment test for application purposes. For Back-end .NetCore Developer
+SmartApartmentData Assessment for Back-End .NetCore Developer application purposes.
 
 Exam Details
 =============
